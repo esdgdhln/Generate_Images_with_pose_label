@@ -1,0 +1,2 @@
+# Generate_Images_with_pose_label
+读取PLY模型，生成具有位姿真值的仿真图，并贴图到图像库中。可以用于深度学习进行位姿估计的数据的生成。
